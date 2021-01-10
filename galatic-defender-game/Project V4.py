@@ -1,7 +1,3 @@
-# Jordan Fang
-# Programming 12 Block 2
-# Final Project - Galactic Defender Version 4.0
-
 import pygame, sys, math, random, time, datetime
 from pygame.locals import *
 
