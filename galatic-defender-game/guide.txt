@@ -1,0 +1,5 @@
+Guns have infinite ammo
+Missiles have limited ammo and are better against high HP enemies
+
+It is better to always stay moving
+Asteroids can be used as cover, but crashing into one will do heavy damage

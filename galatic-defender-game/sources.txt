@@ -1,0 +1,19 @@
+Sprites:
+
+icons8.com
+flaticon.com
+
+Sound effects:
+
+freesound.org
+zapsplat.com
+
+Music:
+
+Severe Tire Damage by Kevin MacLeod
+Daybreak by Kevin MacLeod
+incompetech.com
+
+Animations:
+
+unity3d.com
