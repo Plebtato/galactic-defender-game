@@ -12,3 +12,25 @@ Python 2.7
 
 ## Screenshots
 
+## Credit:
+### Sprites:
+
+[Icons8](https://icons8.com/)
+
+[Flaticon](https://www.flaticon.com/)
+
+### Sound effects:
+
+[Freesound](https://freesound.org/)
+
+[Zapsplat](https://www.zapsplat.com/)
+
+### Music:
+
+Severe Tire Damage by [Kevin MacLeod](https://incompetech.com/music/)
+
+Daybreak by [Kevin MacLeod](https://incompetech.com/music/)
+
+### Animations:
+
+[Unity](https://unity.com/)
