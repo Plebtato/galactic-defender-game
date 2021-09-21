@@ -11,6 +11,8 @@ Python 2.7
 [Python Imaging Library](https://pillow.readthedocs.io/en/stable/installation.html)
 
 ## Screenshots
+![sc1](https://user-images.githubusercontent.com/19521127/134102557-0f7287f3-fc01-4456-a821-22bda2ea2115.png)
+![sc2](https://user-images.githubusercontent.com/19521127/134102620-d21e862a-48a1-4ef6-aa06-2c1371637aea.png)
 
 ## Credit:
 ### Sprites:
